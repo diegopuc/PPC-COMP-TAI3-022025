@@ -1,133 +1,99 @@
 # 📌 Nome do Projeto
 
-Descreva brevemente o seu projeto. Pode incluir imagens, diagramas ou links para wireframes, protótipos, vídeos ou mockups.
+Breve descrição do problema identificado e da solução proposta.  
+Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes etc.
 
 ---
 
 ## 👥 Integrantes
 
-- Nome 1 - RA: XXXXXXXX
-- Nome 2 - RA: XXXXXXXX
-- Nome 3 - RA: XXXXXXXX
+- Nome 1 – RA: XXXXXXXX  
+- Nome 2 – RA: XXXXXXXX  
+- Nome 3 – RA: XXXXXXXX  
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🧭 Etapas do Projeto
 
-Liste as tecnologias, linguagens, frameworks e bibliotecas utilizadas no projeto.
+### 1️⃣ Definição do Problema e da Solução
+- **Problema identificado:**  
+- **Público-alvo:**  
+- **Impacto esperado:**  
+- **Solução proposta:**  
 
-- [Golang](https://github.com/golang/go)
-- [Docker](https://www.docker.com/)
-- [MySQL](https://www.mysql.com/)
-- [React](https://reactjs.org/)
-- Outros...
+### 2️⃣ Lean Canvas / Missão, Visão e Valores
+- Lean Canvas (imagem ou link)  
+- Missão:  
+- Visão:  
+- Valores:  
 
----
+### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
+- Custos fixos:  
+- Custos variáveis:  
+- Tributos aplicáveis:  
 
-## 📦 Dependências e Versões
+### 4️⃣ Investimentos e Precificação
+- Investimento inicial:  
+- Estratégia de precificação:  
+- Justificativa:  
 
-- Docker - Versão: XX
-- Node.js - Versão: XX
-- MySQL - Versão: XX
-- Python - Versão: XX
+### 5️⃣ SWOT (Análise de Ambientes)
+- Forças:  
+- Fraquezas:  
+- Oportunidades:  
+- Ameaças:  
 
----
+### 6️⃣ Planejamento Estratégico (BSC)
+- Objetivos estratégicos:  
+- Indicadores e metas:  
+- Ações planejadas:  
 
-## ✅ Como Rodar o Projeto
+### 7️⃣ Fluxo de Caixa
+- Planilha ou print do fluxo projetado:  
+- Principais considerações:  
 
-1. Clone este repositório:
-```bash
-git clone https://github.com/seuusuario/repositorio.git
-cd repositorio
-```
+### 8️⃣ Valuation
+- Método utilizado:  
+- Valor estimado:  
 
-2. Execute o container Docker:
-```bash
-docker-compose up
-```
-
-3. Acesse em: [http://localhost:3000](http://localhost:3000)
-
-📷 Imagem esperada ao iniciar com sucesso:
-
-![screenshot](docs/screenshot.png)
-
----
-
-## 🧪 Como Rodar os Testes
-
-```bash
-make test
-```
-
-Ou
-
-```bash
-npm run test
-```
+### 9️⃣ Segurança Cibernética
+- Riscos identificados:  
+- Medidas de segurança:  
 
 ---
 
-## 🧭 Diário de Bordo
+## 📅 Diário de Bordo
 
-### 📅 Reuniões Semanais
-
-| Data       | Participantes        | Principais Tópicos | Decisões Tomadas | Encaminhamentos |
-|------------|----------------------|--------------------|------------------|-----------------|
-| 05/08/2025 | Nome1, Nome2, Nome3  | Escolha do problema | Validado Canvas | Agendar entrevistas |
-
-### 📦 Entregas
-
-| Entrega       | Data       | Descrição                              | Status     | Link |
-|---------------|------------|----------------------------------------|------------|------|
-| Entrega 1     | 19/08/2025 | Lean Canvas + Justificativa do Problema | ✅ Entregue | [Ver](./docs/entrega1.pdf) |
-| Entrega 2     | 02/09/2025 | Mapa de Empatia + Prototipagem          | 🚧 Em andamento | - |
-
-### 🧩 Tarefas Pendentes
-
-- [ ] Finalizar fluxograma da solução
-- [ ] Criar modelo inicial do banco de dados
-- [ ] Preparar protótipo para entrevista com o professor
+| Data       | Conteúdo/Etapa                     | Status     | Observações |
+|------------|------------------------------------|------------|-------------|
+| 06/08/2025 | Apresentação Disciplina + Start    | ✅ Concluído | — |
+| 13/08/2025 | Definição dos Grupos e Propostas   | 🚧 Em andamento | Ajustar proposta com feedback do professor |
 
 ---
 
-## 🛠️ Problemas Enfrentados
+## 📦 Entregas
 
-### Problema 1: Conflito de Horários para Reunião
-- **Descrição:** Dois integrantes estavam indisponíveis nos horários definidos inicialmente.
-- **Solução:** Adotamos a plataforma When2Meet para reorganizar os horários com mais flexibilidade.
-
-### Problema 2: Dificuldade com Deploy no Docker
-- **Descrição:** A imagem do backend não inicializava corretamente.
-- **Solução:** Atualizamos o Dockerfile e criamos um `entrypoint.sh` com permissões ajustadas.
+| Entrega                                | Data       | Descrição                                                         | Status |
+|----------------------------------------|------------|-------------------------------------------------------------------|--------|
+| Lean Canvas                            | 20/08/2025 | Documento e imagem do canvas                                      | —      |
+| Custos e Tributos                      | 27/08/2025 | Planilha com custos fixos, variáveis e tributos                   | —      |
+| Análise SWOT / Plano de Negócios       | 24/09/2025 | Análise de ambientes SWOT e entrega do Plano de Negócios          | —      |
+| Fluxo de Caixa / Planejamento Estratégico | 15/10/2025 | Planilha de fluxo de caixa e entrega do Planejamento Estratégico  | —      |
+| Valuation                              | 05/11/2025 | Relatório com cálculo de valuation                                | —      |
+| Valuation      | 12/11/2025 | Valuation | —      |
 
 ---
 
 ## 🗣️ Feedbacks Recebidos
 
-| Data       | De Quem     | Observação                                                                 | Ação Tomada                       |
-|------------|-------------|-----------------------------------------------------------------------------|----------------------------------|
-| 26/08/2025 | Professor X | Melhorar justificativa do problema, estava genérica                        | Redefinimos o problema com base em dados reais coletados |
-| 10/09/2025 | Colega Y    | Interface não estava intuitiva em telas menores                            | Responsividade ajustada com Flexbox e Media Queries |
-
----
-
-## 🚀 Funcionalidades do Projeto
-
-- [x] Tela de login
-- [x] Cadastro de usuário
-- [ ] Dashboard com métricas
-- [ ] Sistema de notificações
-- [ ] Exportação de dados em CSV
+| Data       | De Quem     | Feedback                                                        | Ação Tomada |
+|------------|-------------|----------------------------------------------------------------|-------------|
+| 24/09/2025 | Professor X | Melhorar clareza da análise SWOT                                | Revisão feita |
 
 ---
 
 ## 📚 Lições Aprendidas
-
-- Importância de planejamento incremental
-- Como validar hipóteses com usuários reais
-- Uso prático do Git em equipe
-- Comunicação eficiente em times multidisciplinares
+- O que a equipe aprendeu durante cada fase.  
 
 ---
 
@@ -136,17 +102,15 @@ npm run test
 ```
 📦 projeto/
  ┣ 📂 docs/
- ┃ ┣ entrega1.pdf
- ┃ ┗ wireframes.png
+ ┃ ┣ lean_canvas.png
+ ┃ ┣ custos_tributos.xlsx
+ ┃ ┣ swot_plano_negocios.pdf
+ ┃ ┣ fluxo_caixa_planejamento.xlsx
+ ┃ ┗ valuation.pdf
  ┣ 📂 src/
- ┃ ┣ 📂 frontend/
- ┃ ┗ 📂 backend/
- ┣ docker-compose.yml
- ┗ README.md
+ ┃ ┣ prototipo/
+ ┃ ┗ documentos_planejamento/
+ ┣ README.md
 ```
 
 ---
-
-## 📝 Licença
-
-Este projeto é licenciado sob a Licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
